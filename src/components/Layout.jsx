@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import ReactDOM from 'react-dom'
+import Booties from './Booties.jsx'
 
 export default class Layout extends Component {
 
@@ -7,6 +7,7 @@ export default class Layout extends Component {
     return (
       <div>
         <h1>App</h1>
+        <Booties />
       </div>
     )
   }
