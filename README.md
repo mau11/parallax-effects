@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1565336e-55bc-4a93-9b45-6159a6796a00/deploy-status)](https://app.netlify.com/sites/parallax-effects/deploys)
+
 # Parallax Effects
 
 > React app using parallax.js
